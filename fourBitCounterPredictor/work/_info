@@ -1,0 +1,758 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor
+Ecomparator
+Z0 w1492532083
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor
+Z5 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/comparator.vhd
+Z6 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/comparator.vhd
+l0
+L6
+VAkk2E6QJLX^UT;zQPdF072
+!s100 3UD3[e>b8?Y`GBP_bCa7;1
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1492711702
+!i10b 1
+Z9 !s108 1492711702.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/comparator.vhd|
+Z11 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/comparator.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 10 comparator 0 22 Akk2E6QJLX^UT;zQPdF072
+l14
+L12
+Vf0jOH=K8@Z2k9bY@E7VAC0
+!s100 YKHeDf50_XYlZ0dbe>8kd3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomparatortest
+Z14 w1492532168
+R1
+R2
+R3
+R4
+Z15 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcomparator.vhd
+Z16 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcomparator.vhd
+l0
+L6
+VWIM9T_YlQV_T4d^TBeJ2k1
+!s100 48g?fz@^V`0HRU6fRD<?b3
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcomparator.vhd|
+Z18 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcomparator.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 14 comparatortest 0 22 WIM9T_YlQV_T4d^TBeJ2k1
+l24
+L9
+Vg2[GJ[mc5NKMKM1naFH[i2
+!s100 K_9CG>8Y9CBO`n9g?b?V=3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ecounter
+Z19 w1491888503
+Z20 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+R4
+Z22 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counter.vhd
+Z23 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counter.vhd
+l0
+L8
+V1?k>BVlA9820La3o]=:S^0
+!s100 ;lZ`DK4d3aDkABg>U9LUS3
+R7
+32
+Z24 !s110 1492721937
+!i10b 1
+Z25 !s108 1492721937.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counter.vhd|
+Z27 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counter.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R20
+R21
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 1?k>BVlA9820La3o]=:S^0
+l19
+L15
+VQ[hX^=b5zROdPPKo2j^`C3
+!s100 JUW;U>?Rhh@F5zM0GPR`d2
+R7
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Ecounter2test
+Z28 w1492452926
+R1
+R2
+R3
+R4
+Z29 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TB2counter.vhd
+Z30 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TB2counter.vhd
+l0
+L5
+V8Ve0h<5l9BHddD3KkPTW:0
+!s100 Ti2V]NN`4YWm^NES4C1T=3
+R7
+32
+R8
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TB2counter.vhd|
+Z32 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TB2counter.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 12 counter2test 0 22 8Ve0h<5l9BHddD3KkPTW:0
+l29
+L8
+VRTT>E47e_ac2[D31W7JEh3
+!s100 kSO6dlLL0Ljg4fUlCXkeP0
+R7
+32
+R8
+!i10b 1
+R9
+R31
+R32
+!i113 1
+R12
+R13
+Ecountertest
+Z33 w1491888415
+R1
+R2
+R3
+R4
+Z34 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcounter.vhd
+Z35 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcounter.vhd
+l0
+L6
+V?0z9]AoWjkigZA^[REHTn1
+!s100 FnE3^9gIBX`ciShN?OdDN2
+R7
+32
+R8
+!i10b 1
+R9
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcounter.vhd|
+Z37 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBcounter.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 11 countertest 0 22 ?0z9]AoWjkigZA^[REHTn1
+l28
+L9
+V?9=VkCDoN5R47f:3jhXSI0
+!s100 ZW6kn`[E?1HUZXOUa8WhA0
+R7
+32
+R8
+!i10b 1
+R9
+R36
+R37
+!i113 1
+R12
+R13
+Ecountertwo
+Z38 w1492454980
+R1
+R20
+R21
+R2
+R3
+R4
+Z39 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counterTwo.vhd
+Z40 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counterTwo.vhd
+l0
+L6
+VWbQ?:MFaORob1WK0ozDzE1
+!s100 JQgAkZGbcA16ojT26fC;f2
+R7
+32
+R8
+!i10b 1
+R9
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counterTwo.vhd|
+Z42 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/counterTwo.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R20
+R21
+R2
+R3
+DEx4 work 10 countertwo 0 22 WbQ?:MFaORob1WK0ozDzE1
+l19
+L14
+VQB=RoNH3eCY=Xb8C8fIN]2
+!s100 JgXQZ7GMfidem;neLj^1Q1
+R7
+32
+R8
+!i10b 1
+R9
+R41
+R42
+!i113 1
+R12
+R13
+Edemultiplexer
+Z43 w1492532619
+R2
+R3
+R4
+Z44 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demultiplexer.vhd
+Z45 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demultiplexer.vhd
+l0
+L5
+VbcmO<dO@e9KzTZe[nFTOi2
+!s100 =zP6:EP9@cN>iKNmZbn011
+R7
+32
+R8
+!i10b 1
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demultiplexer.vhd|
+Z47 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demultiplexer.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 13 demultiplexer 0 22 bcmO<dO@e9KzTZe[nFTOi2
+l14
+L12
+VzUfGlH<__`Noh:>mEUW0g2
+!s100 >Bi3U?N[W4jO90hTX<45;0
+R7
+32
+R8
+!i10b 1
+R9
+R46
+R47
+!i113 1
+R12
+R13
+Edemuxtwo
+Z48 w1492723464
+R2
+R3
+R4
+Z49 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demuxTwo.vhd
+Z50 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demuxTwo.vhd
+l0
+L5
+V3z<geOaoC0TlUZN`?Yc_e3
+!s100 @A^oWkC5Onb>Jf8aPke9j2
+R7
+32
+Z51 !s110 1492723466
+!i10b 1
+Z52 !s108 1492723466.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demuxTwo.vhd|
+Z54 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/demuxTwo.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+Z55 DEx4 work 8 demuxtwo 0 22 3z<geOaoC0TlUZN`?Yc_e3
+l46
+L44
+VaYF4N>Fjih`07c@jVj7a=2
+!s100 N<LYJmC3IQ[PL=o@GKP5e0
+R7
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R12
+R13
+Efourbitpredictorprogramtest
+Z56 w1492615448
+Z57 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R1
+R2
+R3
+R4
+Z58 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/testProgramFourCounter.vhd
+Z59 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/testProgramFourCounter.vhd
+l0
+L7
+VLAUUiEO4>Ri^IO[3=2WA<3
+!s100 FY0CjRjKDeH91[30IEBb_3
+R7
+32
+Z60 !s110 1492711703
+!i10b 1
+Z61 !s108 1492711703.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/testProgramFourCounter.vhd|
+Z63 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/testProgramFourCounter.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R57
+R1
+R2
+R3
+DEx4 work 27 fourbitpredictorprogramtest 0 22 LAUUiEO4>Ri^IO[3=2WA<3
+l32
+L10
+V1GK8QAiAS?6?HVP0I@X=z1
+!s100 ?d>MMm64]?A3WU;U5:>=>2
+R7
+32
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R12
+R13
+Efourcounterpredictor
+Z64 w1492615175
+R1
+R2
+R3
+R4
+Z65 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/fourCounterPredictor.vhd
+Z66 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/fourCounterPredictor.vhd
+l0
+L5
+VLg^WIHZO4o[RZWZ1kH6zk3
+!s100 o9c`_9o<KYKGiFBDZnA]Z2
+R7
+32
+R60
+!i10b 1
+R61
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/fourCounterPredictor.vhd|
+Z68 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/fourCounterPredictor.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 20 fourcounterpredictor 0 22 Lg^WIHZO4o[RZWZ1kH6zk3
+l222
+L14
+VTSiM:QjWDMaE<98KZaGBP3
+!s100 Wlb1hTd9CNQ7JHA;F8E662
+R7
+32
+R60
+!i10b 1
+R61
+R67
+R68
+!i113 1
+R12
+R13
+Egbh
+Z69 w1492722313
+R20
+R21
+R1
+R2
+R3
+R4
+Z70 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/GBH.vhd
+Z71 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/GBH.vhd
+l0
+L8
+VabHb_KAh^[_CN5dcEGaW;1
+!s100 JQ2@<b`ViljU2<ShKhVQB3
+R7
+32
+Z72 !s110 1492722316
+!i10b 1
+Z73 !s108 1492722316.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/GBH.vhd|
+Z75 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/GBH.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R20
+R21
+R1
+R2
+R3
+DEx4 work 3 gbh 0 22 abHb_KAh^[_CN5dcEGaW;1
+l19
+L15
+VMb?z5JDJXzWFYb9CEkBzM3
+!s100 >Q;EO[AGg5?Kda[b?Vf4V2
+R7
+32
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R12
+R13
+Egbhtest
+Z76 w1492611985
+R1
+R2
+R3
+R4
+Z77 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBGBH.vhd
+Z78 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBGBH.vhd
+l0
+L5
+Vzi^e?Zaf7ld@OK9F909L]3
+!s100 6SeCY>f:czn8R0Dz<z;H01
+R7
+32
+R60
+!i10b 1
+R61
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBGBH.vhd|
+Z80 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBGBH.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 gbhtest 0 22 zi^e?Zaf7ld@OK9F909L]3
+l27
+L8
+V47oh>Il^jPfeM2;JO8HmF3
+!s100 HNCAH4kcfYV4`33YV`nJe1
+R7
+32
+R60
+!i10b 1
+R61
+R79
+R80
+!i113 1
+R12
+R13
+Emultiplexer
+Z81 w1492292364
+R2
+R3
+R4
+Z82 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/multiplexer.vhd
+Z83 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/multiplexer.vhd
+l0
+L4
+VeV[XWAV3MCBoR5H96V0ge1
+!s100 mH@kPRAc?og?a`oAlG9DH0
+R7
+32
+R8
+!i10b 1
+R9
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/multiplexer.vhd|
+Z85 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/multiplexer.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 11 multiplexer 0 22 eV[XWAV3MCBoR5H96V0ge1
+l12
+L11
+VgD=7PoiYaBn;R5A93XbTM3
+!s100 M;F>ZSMZNB]NhW;U@GQ>i0
+R7
+32
+R8
+!i10b 1
+R9
+R84
+R85
+!i113 1
+R12
+R13
+Emuxtwo
+Z86 w1492533436
+R2
+R3
+R4
+Z87 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/muxTwo.vhd
+Z88 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/muxTwo.vhd
+l0
+L4
+VE>KC9CPMQh`=AK47o>[c71
+!s100 7I_IU[:6U_0RWL2DmZiZd3
+R7
+32
+R60
+!i10b 1
+R61
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/muxTwo.vhd|
+Z90 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/muxTwo.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 6 muxtwo 0 22 E>KC9CPMQh`=AK47o>[c71
+l26
+L25
+V=Un^?^YaG<dXlXTdd_I500
+!s100 :]CiWdOAbLYlI>7;zL76n2
+R7
+32
+R60
+!i10b 1
+R61
+R89
+R90
+!i113 1
+R12
+R13
+Etb_multiplexer
+Z91 w1492293198
+R1
+R20
+R21
+R2
+R3
+R4
+Z92 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmultiplexer.vhd
+Z93 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmultiplexer.vhd
+l0
+L10
+Vj]n=1Z3T7ggXjX3NH_m_j2
+!s100 5cSdm]N5[BJ4VcJODZz:L1
+R7
+32
+R60
+!i10b 1
+R61
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmultiplexer.vhd|
+Z95 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmultiplexer.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R20
+R21
+R2
+R3
+DEx4 work 14 tb_multiplexer 0 22 j]n=1Z3T7ggXjX3NH_m_j2
+l40
+L13
+VFC42`X;QJ3Y02c?boV:982
+!s100 YO>?SzmAlW@fGRiZ6P^IJ2
+R7
+32
+R60
+!i10b 1
+R61
+R94
+R95
+!i113 1
+R12
+R13
+Etb_muxtwo
+Z96 w1492534162
+R1
+R20
+R21
+R2
+R3
+R4
+Z97 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmuxTwo.vhd
+Z98 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmuxTwo.vhd
+l0
+L10
+V;@W9eZ]`GQRgKgdoc2POU0
+!s100 1gm7SYESd1AIAL99B_<zZ3
+R7
+32
+R60
+!i10b 1
+R61
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmuxTwo.vhd|
+Z100 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBmuxTwo.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R20
+R21
+R2
+R3
+DEx4 work 9 tb_muxtwo 0 22 ;@W9eZ]`GQRgKgdoc2POU0
+l63
+L13
+VhB7_4LW_Sd4<V2TnSDB>H3
+!s100 fXECM9MZdhLMid8>LLVh81
+R7
+32
+R60
+!i10b 1
+R61
+R99
+R100
+!i113 1
+R12
+R13
+Etbdemultiplexer
+Z101 w1492532785
+R2
+R3
+R4
+Z102 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemultiplexer.vhd
+Z103 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemultiplexer.vhd
+l0
+L5
+VnnQEzdDIL:OzhNV3]?T[U2
+!s100 fl1[j96PGR]GdCFGG@1AH3
+R7
+32
+R60
+!i10b 1
+R9
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemultiplexer.vhd|
+Z105 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemultiplexer.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 15 tbdemultiplexer 0 22 nnQEzdDIL:OzhNV3]?T[U2
+l20
+L8
+VM;>1l6<EbOR;Nb;aHF3:d1
+!s100 <>MO7:cM[oHBV7ambFd`W3
+R7
+32
+R60
+!i10b 1
+R9
+R104
+R105
+!i113 1
+R12
+R13
+Etbdemuxtwo
+Z106 w1492562401
+R2
+R3
+R4
+Z107 8C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemuxTwo.vhd
+Z108 FC:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemuxTwo.vhd
+l0
+L4
+VD0Zfmo@lM_4j34^^o_Lzn0
+!s100 =T[Qe=ml`?f>?NEAJgXoJ0
+R7
+32
+R60
+!i10b 1
+R61
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemuxTwo.vhd|
+Z110 !s107 C:/Modeltech_pe_edu_10.4a/examples/fourBitCounterPredictor/TBdemuxTwo.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 10 tbdemuxtwo 0 22 D0Zfmo@lM_4j34^^o_Lzn0
+l53
+L7
+VZ0^2QShJPg3CG4`ESTL263
+!s100 mC]Z<ZR;caj7zNhNiob180
+R7
+32
+R60
+!i10b 1
+R61
+R109
+R110
+!i113 1
+R12
+R13

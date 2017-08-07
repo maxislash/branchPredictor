@@ -1,0 +1,122 @@
+C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBdemultiplexer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBdemultiplexer.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tbdemultiplexer
+-- Compiling architecture behavior of tbdemultiplexer
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TwoCounterPredictor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TwoCounterPredictor.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity TwoCounterPredictor
+-- Compiling architecture Behavioral of TwoCounterPredictor
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/counter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter
+-- Compiling architecture Behavioral of counter
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/comparator.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/comparator.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity comparator
+-- Compiling architecture Behavioral of comparator
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/counterTwo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/counterTwo.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity counterTwo
+-- Compiling architecture Behavioral of counterTwo
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/testProgramTwoCounter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/testProgramTwoCounter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity TwoBitPredictorProgramTest
+-- Compiling architecture behavior of TwoBitPredictorProgramTest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/multiplexer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/multiplexer.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Multiplexer
+-- Compiling architecture Behavioral of Multiplexer
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/demultiplexer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/demultiplexer.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity demultiplexer
+-- Compiling architecture Behavioral of demultiplexer
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBTwoCounterPredictor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBTwoCounterPredictor.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity TwoCounterPredictorTest
+-- Compiling architecture behavior of TwoCounterPredictorTest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBcounter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBcounter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counterTest
+-- Compiling architecture behavior of counterTest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBcomparator.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBcomparator.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity comparatorTest
+-- Compiling architecture behavior of comparatorTest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TB2counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TB2counter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Counter2Test
+-- Compiling architecture behavior of Counter2Test
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBmultiplexer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/twoBitCounterPredictor/TBmultiplexer.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_Multiplexer
+-- Compiling architecture behavior of tb_Multiplexer
+
+} {} {}}

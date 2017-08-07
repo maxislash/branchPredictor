@@ -1,0 +1,10 @@
+Tue Apr 18 11:51:15 CDT 2017
+Trace back: invalid command name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"
+    while executing
+"$widget index @$x,$y"
+    (procedure "WaveABar::mouseMotionUpdate" line 19)
+    invoked from within
+"WaveABar::mouseMotionUpdate .main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data .main_pane.wave.interior.cs.body.pw.wf 259 186"
+    ("after" script)
+  <2:C:/Modeltech_pe_edu_10.4a/win32pe_edu/tk8.5/bgerror.tcl:92: ::tkerror {invalid command name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"}
+  <1:proc:137: ::tk::dialog::error::bgerror {invalid command name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"}
